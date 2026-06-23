@@ -1,0 +1,23 @@
+Output
+Linear Search Result:
+ID: 103
+Name: Shoes
+Category: Fashion
+
+Binary Search Result:
+ID: 103
+Name: Shoes
+Category: Fashion
+
+
+If Product Not Found (e.g., "Tablet")
+Linear Search Result:
+Product Not Found
+
+Binary Search Result:
+Product Not Found
+
+Time complexities:
+
+Linear Search Time Complexity: O(n)
+Binary Search Time Complexity: O(log n)
