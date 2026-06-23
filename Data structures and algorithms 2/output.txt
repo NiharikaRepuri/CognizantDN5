@@ -1,0 +1,9 @@
+Enter Present Value 1000
+Enter Growth Rate (%) 10
+Enter Number of Years 3
+
+----- Financial Forecast -----
+Present Value  1000.0
+Growth Rate    10.0%
+Years          3
+Future Value   1331.0
