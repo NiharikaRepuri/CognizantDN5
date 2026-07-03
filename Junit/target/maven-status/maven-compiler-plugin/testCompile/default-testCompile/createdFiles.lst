@@ -1,0 +1,5 @@
+com\cognizant\junit\AssertionsTest.class
+com\cognizant\junit\CalculatorTest.class
+com\cognizant\junit\AAAExampleTest.class
+com\cognizant\mockito\VerifyInteractionTest.class
+com\cognizant\mockito\MyServiceTest.class

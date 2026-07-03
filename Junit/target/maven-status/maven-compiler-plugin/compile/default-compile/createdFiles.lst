@@ -1,0 +1,4 @@
+com\cognizant\junit\Calculator.class
+com\cognizant\logging\LoggingExample.class
+com\cognizant\mockito\MyService.class
+com\cognizant\mockito\ExternalApi.class
