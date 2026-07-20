@@ -1,0 +1,36 @@
+body{
+    margin:0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container{
+    text-align:center;
+    margin-top:60px;
+}
+
+h1{
+    color:brown;
+    font-size:48px;
+    margin-bottom:30px;
+}
+
+h3{
+    margin:8px 0;
+    font-size:28px;
+}
+
+.name{
+    color:blue;
+}
+
+.school{
+    color:red;
+}
+
+.total{
+    color:purple;
+}
+
+.score{
+    color:green;
+}
